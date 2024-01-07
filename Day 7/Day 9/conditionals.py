@@ -8,3 +8,9 @@ if age == 25:
      print('we are of same age')
 else:
      print('you are 5 years older than me')
+
+     age = 30
+     if age < 15:
+          print('you are older than me')
+     else:
+          print('you are not older than me')
